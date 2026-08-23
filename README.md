@@ -18,22 +18,14 @@ yourself.
 
 ---
 
-**Selected work**
+**What I'm building**
 
-**[LinguaSign](https://github.com/muratozturk4u/LinguaSign)** — sign language translation and learning assistant
-Three architectures implemented against the same task — CNN+LSTM, MediaPipe+ML and Transformer — so they can be compared rather than asserted. Sign-to-text, text-to-sign visualisation, and a feedback loop for learners.
-`Python` · `PyTorch` · `MediaPipe` — research stage, no trained weights published yet
+**[dev-activity](https://github.com/muratozturk4u/dev-activity)** — the scanner behind the card above  
+Walks every git repository on this machine, counts only the commits written by me, publishes numbers. No repository names, no commit messages, no code. Runs itself every night.  
+`Python`
 
-**[LexoRead](https://github.com/muratozturk4u/LexoRead)** — reading assistant for dyslexia
-Summaries adapted to the reader's level (beginner / intermediate / advanced), key-concept extraction with importance scores, and emotion-aware text-to-speech.
-`Python` · `FastAPI` · `BART` · `T5` — API implemented
-
-**[ecommerce-gateway](https://github.com/muratozturk4u/ecommerce-gateway)** — monolith to microservices
-Built to measure the trade-offs of the split instead of assuming them: independent scaling, deployment isolation, and the latency the split costs.
-`TypeScript` · `Node 20` · `Docker` — tests passing
-
-**[dev-activity](https://github.com/muratozturk4u/dev-activity)** — the scanner behind the card above
-Walks every git repository on the machine, counts only the commits written by me, and publishes numbers. No repository names, no commit messages, no code.
-`Python` — running daily
+**[dev-radar](https://github.com/muratozturk4u/dev-radar)** — a filter for the developer feed  
+Pulls the day's raw stream from six open APIs, reads the actual README / article / model card of each candidate, and writes a handful of explained cards. Everything it drops is recorded with a reason — the filter has to be auditable, not trusted.  
+`Node` `Claude Code`
 
 **Working with** TypeScript · React · Python · Node · agentic systems · RAG · vector databases · Docker
