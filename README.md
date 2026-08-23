@@ -20,11 +20,20 @@ yourself.
 
 **Selected work**
 
-| | |
-|---|---|
-| [**LinguaSign**](https://github.com/muratozturk4u/LinguaSign) | Sign language translation and learning assistant. Three architectures compared: CNN+LSTM, MediaPipe+ML, and Transformer. |
-| [**LexoRead**](https://github.com/muratozturk4u/LexoRead) | Reading assistant for dyslexia. Summaries adapted to the reader's level, with key-concept extraction (BART + T5). |
-| [**ecommerce-gateway**](https://github.com/muratozturk4u/ecommerce-gateway) | Monolith to microservices, with the trade-offs measured rather than asserted. TypeScript, Docker. |
-| [**dev-activity**](https://github.com/muratozturk4u/dev-activity) | The scanner behind the card above. Reads local git metadata, publishes numbers only. |
+**[LinguaSign](https://github.com/muratozturk4u/LinguaSign)** — sign language translation and learning assistant
+Three architectures implemented against the same task — CNN+LSTM, MediaPipe+ML and Transformer — so they can be compared rather than asserted. Sign-to-text, text-to-sign visualisation, and a feedback loop for learners.
+`Python` · `PyTorch` · `MediaPipe` — research stage, no trained weights published yet
+
+**[LexoRead](https://github.com/muratozturk4u/LexoRead)** — reading assistant for dyslexia
+Summaries adapted to the reader's level (beginner / intermediate / advanced), key-concept extraction with importance scores, and emotion-aware text-to-speech.
+`Python` · `FastAPI` · `BART` · `T5` — API implemented
+
+**[ecommerce-gateway](https://github.com/muratozturk4u/ecommerce-gateway)** — monolith to microservices
+Built to measure the trade-offs of the split instead of assuming them: independent scaling, deployment isolation, and the latency the split costs.
+`TypeScript` · `Node 20` · `Docker` — tests passing
+
+**[dev-activity](https://github.com/muratozturk4u/dev-activity)** — the scanner behind the card above
+Walks every git repository on the machine, counts only the commits written by me, and publishes numbers. No repository names, no commit messages, no code.
+`Python` — running daily
 
 **Working with** TypeScript · React · Python · Node · agentic systems · RAG · vector databases · Docker
