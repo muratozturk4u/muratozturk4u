@@ -24,15 +24,3 @@ or run it on your own machine.
 [data history](https://github.com/muratozturk4u/dev-activity/commits/main)
 
 ---
-
-**What I'm building**
-
-**[dev-activity](https://github.com/muratozturk4u/dev-activity)** — the scanner behind the card above  
-Walks every git repository on this machine, counts only the commits written by me, publishes numbers. No repository names, no commit messages, no code. Runs itself every night.  
-`Python`
-
-**[dev-radar](https://github.com/muratozturk4u/dev-radar)** — a filter for the developer feed  
-Pulls the day's raw stream from six open APIs, reads the actual README / article / model card of each candidate, and writes a handful of explained cards. Everything it drops is recorded with a reason — the filter has to be auditable, not trusted.  
-`Node` `Claude Code`
-
-**Working with** TypeScript · React · Python · Node · agentic systems · RAG · vector databases · Docker
