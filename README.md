@@ -3,7 +3,7 @@
 AI engineer & full-stack developer. I build multi-agent systems — currently a
 multi-service agentic platform in education.
 
-![Real commit activity](https://raw.githubusercontent.com/muratozturk4u/dev-activity/main/card.svg)
+![Real commit activity](https://raw.githubusercontent.com/muratozturk4u/dev-activity/main/card.svg?v=2)
 
 GitHub counts 156 contributions for the same period. Most of my work lives in
 private company repositories, so it never reaches this profile. The card above is
