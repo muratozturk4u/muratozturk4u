@@ -3,7 +3,7 @@
 AI engineer & full-stack developer. I build multi-agent systems — currently a
 multi-service agentic platform in education.
 
-![Real commit activity](https://raw.githubusercontent.com/muratozturk4u/dev-activity/main/card.svg?v=2)
+![Real commit activity](https://raw.githubusercontent.com/muratozturk4u/dev-activity-data/main/card.svg?v=2)
 
 **There are two activity graphs on this page, and they disagree. That is the point.**
 
@@ -19,8 +19,8 @@ cannot be verified from the outside, so treat it as self-reported with an
 auditable method and a public daily trail. The scanner is open source: read it,
 or run it on your own machine.
 
-[how it's measured](https://github.com/muratozturk4u/dev-activity) ·
+[how it's measured](https://github.com/muratozturk4u/dev-activity-data) ·
 [live dashboard](https://code-pulse-ledger.lovable.app/) ·
-[data history](https://github.com/muratozturk4u/dev-activity/commits/main)
+[data history](https://github.com/muratozturk4u/dev-activity-data/commits/main)
 
 ---
